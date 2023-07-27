@@ -33,7 +33,7 @@ align="center" >
 ---
 
 - 👋 Hi, I’m [@yoantran](https://github.com/yoantran)
-- 👀 I’m interested in art, animation and sleeping
+- 👀 I’m interested in art, animation and technology
 - 🌱 I’m currently learning at RMIT
 - 📫 How to reach me: message me through [LinkedIn](https://www.linkedin.com/in/yoantran/) 
 
