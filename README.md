@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/mie.png" width="256px" height="256px" />
+    <img src="assets/happy_pfp.png" width="256px" height="256px" />
 </div>
 
 <div 
